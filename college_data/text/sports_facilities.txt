@@ -1,0 +1,161 @@
+sports_facilities = """
+IIIT NAGPUR - SPORTS AND RECREATIONAL FACILITIES
+
+OUTDOOR SPORTS FACILITIES
+
+Football Ground:
+- Full size football ground with proper turf
+- Running track around the football field
+- Suitable for matches and practice sessions
+- Floodlights for evening practice
+
+Volleyball Court:
+- Standard size volleyball court
+- Proper court markings and net
+- Available for students throughout the day
+
+Badminton Court:
+- Outdoor badminton court facilities
+- Multiple courts available
+- Court markings and nets provided
+
+Basketball Court:
+- Standard basketball court
+- Proper hoops and court markings
+- Available for practice and matches
+
+---
+
+INDOOR SPORTS FACILITIES
+
+Gymnasium Facilities:
+
+Girls Gymnasium:
+- Located on 1st floor of hostel building
+- Modern gym equipment
+- Cardio machines
+- Strength training equipment
+- Yoga and fitness area
+
+Boys Gymnasium:
+- Located on 8th floor of hostel building
+- Modern gym equipment
+- Cardio machines (treadmills, cycles, elliptical)
+- Strength training equipment (weights, benches, racks)
+- Proper ventilation and safety measures
+
+Gym Rules:
+- No food eating allowed in gym
+- Proper sports attire required
+- Equipment must be returned after use
+- Maintain cleanliness and hygiene
+
+Common Room:
+- Boys Common Room: Located on 2nd floor of hostel
+- Indoor games facilities
+- Recreational activities
+- Socializing space for students
+
+---
+
+SPORTS ADMINISTRATION
+
+Sports Secretary:
+- Manages sports activities and events
+- Coordinates equipment and facility maintenance
+- Organizes inter-hostel and inter-college competitions
+
+Sports Coordinator:
+- Day-to-day sports activities organization
+- Equipment distribution and maintenance
+- Scheduling of sports facilities
+
+Sports Fee:
+- Annual Sports Fees: Rs. 2,800
+- Included in academic fee structure
+- Covers maintenance and development of sports facilities
+
+---
+
+SPORTS EVENTS AND ACTIVITIES
+
+Annual Sports Events:
+- Inter-hostel sports competitions
+- Institute Gathering (Sports event held in January)
+- Various tournaments throughout the year
+
+Sports Activities:
+- Regular practice sessions
+- Coaching and training programs
+- Inter-college sports competitions
+- Fitness and wellness programs
+
+---
+
+SPORTS EQUIPMENT
+
+Available Equipment:
+- Football, volleyball, basketball equipment
+- Badminton rackets and shuttlecocks
+- Cricket equipment
+- Indoor games equipment
+- Gym and fitness equipment
+
+Equipment Distribution:
+- Available through Sports Coordinator
+- Proper maintenance and care required
+- Damage or loss must be reported
+
+---
+
+RECREATIONAL ACTIVITIES
+
+Outdoor Activities:
+- Morning and evening runs on track
+- Outdoor fitness activities
+- Team sports practice
+- Recreational games
+
+Indoor Activities:
+- Gymnasium workouts
+- Indoor games in common room
+- Yoga and meditation sessions
+- Fitness training programs
+
+---
+
+HEALTH AND FITNESS
+
+Medical Support:
+- Medical facility available every day
+- Timing: 6:30 PM to 7:30 PM (Evening)
+- First aid for sports injuries
+- Emergency medical assistance
+
+Fitness Programs:
+- Regular fitness awareness programs
+- Health checkup camps
+- Sports injury prevention workshops
+- Nutritional guidance for athletes
+
+---
+
+SPORTS CULTURE AT IIIT NAGPUR
+
+Participation:
+- Active participation encouraged
+- Inter-hostel competitions
+- Team building activities
+- Representation in inter-college events
+
+Achievements:
+- Students participate in state and national level competitions
+- Regular sports achievers recognized
+- Sports scholarships and awards
+
+---
+
+CONTACT INFORMATION
+
+For Sports Queries:
+Sports Secretary and Sports Coordinator

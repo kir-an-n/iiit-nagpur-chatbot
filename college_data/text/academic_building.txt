@@ -1,0 +1,169 @@
+# FILE 5: academic_building.txt
+# Save as: college_data/text/academic_building.txt
+# =============================================================================
+
+academic_building = """
+IIIT NAGPUR - ACADEMIC BUILDING FACILITIES
+
+BUILDING STRUCTURE
+The academic building has 5 floors (Ground + 4 floors) with modern centralized air-conditioned facilities.
+
+---
+
+GROUND FLOOR
+
+Classrooms:
+- Room 001
+- Room 002
+(Only 2 classrooms on ground floor)
+
+Administrative Facilities:
+- Exam Control Room
+- Examination Room
+
+Washrooms:
+- Female Washroom: Located at the right corner of the building
+- Male Washroom: Located at the left corner of the building
+
+Elevators:
+- Total: 5 elevators
+- Right side of building: 2 elevators
+- Left side of building: 3 elevators
+
+Other Facilities:
+- Water coolers available
+
+---
+
+FIRST FLOOR
+
+Classrooms:
+- 3 classrooms available
+
+Faculty Facilities:
+- Faculty cabins for professors and assistant professors
+
+Washrooms:
+- Male and Female washrooms available
+
+Other Facilities:
+- Water coolers available
+- Elevator access
+
+---
+
+SECOND FLOOR
+
+Classrooms:
+- Multiple classrooms available
+
+Laboratory Facilities:
+- Communication Skills Lab: Located at right corner near girls washroom
+- Applied Science Lab: Located at left corner near boys washroom
+
+Library Facilities:
+- Library and Reading Room available on this floor
+
+Washrooms:
+- Male and Female washrooms available
+
+Other Facilities:
+- Water coolers available
+- Elevator access
+
+---
+
+THIRD FLOOR
+
+Classrooms:
+- Multiple classrooms available
+
+Laboratory Facilities:
+- MG Lab: Located at right corner
+- Electronics Lab: Located at left corner
+
+Washrooms:
+- Male and Female washrooms available
+
+Other Facilities:
+- Water coolers available
+- Elevator access
+
+---
+
+FOURTH FLOOR
+
+Classrooms:
+- Multiple classrooms available
+
+Laboratory Facilities:
+- Robotics Lab
+
+Washrooms:
+- Male and Female washrooms available
+
+Other Facilities:
+- Water coolers available
+- Elevator access
+
+---
+
+FIFTH FLOOR
+
+Laboratory Facilities:
+- Computer Labs (Multiple labs for programming and computing)
+
+Washrooms:
+- Male and Female washrooms available
+
+Other Facilities:
+- Water coolers available
+- Elevator access
+
+---
+
+CLASSROOM FACILITIES
+
+All classrooms are equipped with:
+- Centralized Air Conditioning
+- Student capacity: Approximately 75 students per classroom
+- Double desks for comfortable seating
+- White boards for teaching
+- Projectors for presentations and lectures
+- Modern teaching-learning infrastructure
+
+---
+
+GENERAL BUILDING FACILITIES
+
+Water Supply:
+- 2 water coolers available on each floor
+- Clean drinking water facility
+
+Elevators:
+- 5 elevators for vertical movement
+- 2 elevators on right side
+- 3 elevators on left side
+- Easy accessibility to all floors
+
+Washrooms:
+- Male and Female washrooms on every floor
+- Clean and maintained facilities
+- Separate washrooms for staff and students
+
+Safety and Maintenance:
+- Well-maintained building infrastructure
+- Regular cleaning and maintenance
+- Security personnel available
+
+---
+
+LABORATORY EQUIPMENT AND FACILITIES
+
+All laboratories are equipped with:
+- Modern equipment for practical learning
+- Centralized air conditioning
+- Safety equipment and protocols
+- Computer systems and software for simulations
+- Hands-on training facilities
+"""

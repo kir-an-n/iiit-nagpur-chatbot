@@ -1,0 +1,248 @@
+hostel_facilities = """
+IIIT NAGPUR - HOSTEL FACILITIES AND INFORMATION
+
+HOSTEL BUILDING STRUCTURE
+The hostel building consists of 10 floors with modern facilities and amenities for students.
+
+---
+
+ROOM ACCOMMODATION
+
+Room Types Available:
+1. Four Seater Rooms (4 students per room)
+2. Double Seater Rooms (2 students per room)
+
+Room Allocation Policy:
+- Same year students are allocated together in rooms
+- No senior-junior room distribution
+- First Come First Serve basis for room allotment
+- Room allotment done by the Institute
+- No change permitted without prior approval of Competent Authority
+
+Floor Distribution:
+- First Floor: Girls Hostel (All year girls students)
+- Remaining Floors (2nd to 10th): Boys Hostel
+
+---
+
+ELEVATOR FACILITIES
+
+Total Elevators: 6
+
+For Girls:
+- 1 elevator near night canteen area (Lift 1)
+- Located near girls entrance
+
+For Boys:
+- 2 elevators near night canteen area
+- 3 elevators near staircase in boys entrance area
+
+Girls Entrance: Located at the last end of the building
+Boys Entrance: Main entrance area
+
+---
+
+WASHROOM FACILITIES
+
+Each Floor:
+- 4 washrooms per floor
+- Separate male and female washrooms
+- Daily cleaning by cleaners
+
+Cleanliness Policy:
+- Washrooms cleaned daily by cleaners
+- No cleaner is allowed inside rooms
+- Students must clean their own rooms
+- Dust bins available outside each washroom
+
+---
+
+MESS AND DINING FACILITIES
+
+Dining Halls:
+- DH1 (Dining Hall 1)
+- DH2 (Dining Hall 2)
+- DH3 (Dining Hall 3)
+- DH4 (Dining Hall 4)
+
+Night Canteen:
+- Operating Hours: 10:00 PM to 1:30 AM
+- Available for late night food needs
+
+MESS TIMINGS:
+
+Weekdays (Monday to Saturday):
+- Breakfast: 7:30 AM to 9:30 AM
+- Lunch: 12:00 PM to 2:00 PM
+- Evening Snacks: 5:30 PM to 6:30 PM
+- Dinner: 7:30 PM to 9:30 PM
+
+Sundays:
+- Breakfast: 7:30 AM to 10:00 AM
+- Lunch: 12:00 PM to 2:30 PM
+- Evening Snacks: 5:30 PM to 6:30 PM
+- Dinner: 7:30 PM to 9:30 PM
+
+Mess Menu:
+- Prepared by Mess Secretary
+- Managed by student council (CRA - Council for Residential Affairs)
+
+Hot Water Facility:
+- One hot water cooler available in DH4
+
+---
+
+RECREATIONAL FACILITIES
+
+Gymnasium:
+- Girls Gym: Located on 1st floor
+- Boys Gym: Located on 5th & 8th floor
+- No food eating allowed in gym
+
+Common Room:
+- Boys Common Room: Located on each floor
+- Recreational activities and socializing space
+
+---
+
+SPORTS FACILITIES
+
+Football Ground:
+- Full size football ground
+- Running track around the field
+
+Volleyball Court:
+- Standard volleyball court
+
+Badminton Court:
+- Indoor/Outdoor badminton facilities
+
+Basketball Court:
+- Standard basketball court
+
+All sports facilities are accessible to hostel residents.
+
+---
+
+WATER FACILITIES
+
+Each Floor:
+- 2 water coolers per floor
+- Clean drinking water available 24/7
+
+---
+
+SECURITY AND SAFETY
+
+Security Personnel:
+- 24/7 security guards at hostel gate
+- Security guards in academic area
+- Round the clock surveillance
+
+Gate Timings:
+- Hostel gate monitored continuously
+- Entry and exit records maintained
+
+Emergency Services:
+- Security available for emergencies
+- Medical facility contact available
+
+---
+
+MEDICAL FACILITIES
+
+Medical Service Availability:
+- Timing: 6:30 PM to 7:30 PM (Evening)
+- Available every day
+- Medical staff on duty
+- Emergency medical assistance can be arranged
+
+---
+
+MAINTENANCE AND COMPLAINTS
+
+Maintenance Complaints:
+- Visit the guard at ground floor
+- File written complaint
+- Fixed in due time
+
+Alternative Contact:
+- Contact Maintenance Coordinator
+- Contact Hostel Secretary
+- Email to hostel administration
+
+---
+
+STUDENT COUNCIL - CRA (COUNCIL FOR RESIDENTIAL AFFAIRS)
+
+The hostel is managed by student representatives for smooth operations:
+
+Positions:
+- Hostel Secretary: Overall hostel management and administration
+- Mess Secretary: Mess menu planning and food quality management
+- Sports Secretary: Sports activities and equipment management
+- Hostel Coordinator: Coordination between students and administration
+- Mess Coordinator: Day-to-day mess operations
+- Sports Coordinator: Daily sports activities organization
+- Event Coordinators: Organizing hostel events and activities
+
+Responsibilities:
+- Smooth operation of hostel facilities
+- Student grievance handling
+- Coordination with hostel administration
+- Organizing cultural and sports events
+- Maintaining discipline and decorum
+
+---
+
+GUEST HOUSE FACILITY
+
+Guest House:
+- Available for visiting parents
+- Faculty and essential staff accommodation
+- Parents can stay during visits
+
+Parent Visit Policy:
+- Parents allowed to visit
+- Parents can eat in mess (charges: Rs. 200 per day for food)
+- No parents allowed inside student rooms
+- Parents can be in ground floor and dining areas only
+
+
+---
+
+HOSTEL RULES AND REGULATIONS
+
+Room Cleanliness:
+- Students must clean their own rooms
+- Cleaners not allowed inside rooms
+- Maintain cleanliness and hygiene
+
+Mess Rules:
+- Follow mess timings strictly
+- No food wastage
+- Respect mess staff
+- Maintain discipline in dining halls
+
+Visitor Rules:
+- Parents can visit during specified hours
+- No unauthorized visitors in rooms
+- All visitors must register at gate
+
+General Conduct:
+- Maintain discipline and decorum
+- Respect fellow students
+- Follow hostel rules and regulations
+- No ragging or harassment
+- Report any issues to hostel authorities
+
+---
+
+HOSTEL CONTACT AND ADMINISTRATION
+
+For Queries Contact:
+- Hostel Warden
+- Hostel Secretary
+- Registrar Office: registrar@iiitn.ac.in
+- Institute Phone: 9405215010
+"""

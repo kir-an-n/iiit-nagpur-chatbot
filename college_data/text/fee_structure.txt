@@ -1,0 +1,143 @@
+fee_structure = """
+IIIT NAGPUR - FEE STRUCTURE FOR SESSION 2025-2026
+
+Institution Details:
+Indian Institute of Information Technology, Nagpur
+An Institution of National Importance by an Act of Parliament
+Survey No. 140, 141/1, Behind Br. Sheshrao Wankhede Shetkari Soot Girni
+Village: Waranga, Post: Dongargaon (Butibori)
+District: Nagpur, Maharashtra - 441108
+Website: www.iiitn.ac.in
+Phone: 9405215010
+
+---
+
+ACADEMIC FEES STRUCTURE (Annual Fees in Rupees)
+
+For 2nd, 3rd & 4th Year Students:
+
+SR. NO. | PARTICULARS | 2ND YEAR | 3RD YEAR | 4TH YEAR
+
+1. Tuition Fees | Rs. 1,98,000 | Rs. 1,98,000 | Rs. 1,98,000
+2. Development Fees | Rs. 13,500 | Rs. 13,500 | Rs. 13,500
+3. End Semester Examination Fees | Rs. 2,000 | Rs. 2,000 | Rs. 2,000
+4. Registration Fees | Rs. 1,500 | Rs. 1,500 | Rs. 1,500
+5. Library Fees | Rs. 3,000 | Rs. 3,000 | Rs. 3,000
+6. Gym, Cultural Activities & Magazine Fees | Rs. 2,500 | Rs. 2,500 | Rs. 2,500
+7. Sports Fees | Rs. 2,800 | Rs. 2,800 | Rs. 2,800
+8. Internet & Computer Maintenance Fees | Rs. 3,300 | Rs. 3,300 | Rs. 3,300
+9. Training & Placement Fees | Rs. 900 | Rs. 900 | Rs. 900
+10. Industry-Institute Interaction Fees | Rs. 800 | Rs. 800 | Rs. 800
+11. Convocation Fees | - | - | Rs. 1,000
+
+TOTAL ANNUAL FEES:
+- 2nd Year: Rs. 2,28,300
+- 3rd Year: Rs. 2,28,300
+- 4th Year: Rs. 2,29,300
+
+SEMESTER-WISE FEES:
+Odd Semester Fees:
+- 2nd Year: Rs. 1,14,150
+- 3rd Year: Rs. 1,14,150
+- 4th Year: Rs. 1,15,150
+
+Even Semester Fees:
+- 2nd Year: Rs. 1,14,150
+- 3rd Year: Rs. 1,14,150
+- 4th Year: Rs. 1,14,150
+
+---
+
+HOSTEL FEES STRUCTURE (In Rupees)
+
+For Continuing Hostel Students (2nd & 3rd Year):
+
+SR. NO. | PARTICULARS | DOUBLE SEATER | FOUR SEATER
+
+1. Room Rent | Rs. 30,000 | Rs. 15,000
+2. Advance Electricity Charges (Adjustable as per Actuals) | Rs. 15,000 | Rs. 15,000
+3. Advance Water Charges (Adjustable as per Actuals) | Rs. 2,000 | Rs. 2,000
+4. Recreation | Rs. 2,000 | Rs. 2,000
+5. Allied Services | Rs. 20,000 | Rs. 20,000
+6. Mess Charges (Adjustable as per Actuals) | Rs. 40,000 | Rs. 40,000
+7. Mess Deposit (one time) | Rs. 0 | Rs. 0
+8. Caution Money (Refundable) | Rs. 2,000 | Rs. 2,000
+9. Depreciation Fund (One Time) | Rs. 0 | Rs. 0
+10. Welfare Fee (One Time) | Rs. 0 | Rs. 0
+
+GRAND TOTAL HOSTEL CHARGES (2nd & 3rd Year):
+- Double Seater: Rs. 1,11,000
+- Four Seater: Rs. 96,000
+
+Odd Semester Fees:
+- Double Seater: Rs. 76,000
+- Four Seater: Rs. 68,500
+
+Even Semester Fees:
+- Double Seater: Rs. 35,000
+- Four Seater: Rs. 27,500
+
+---
+
+HOSTEL FEES FOR 4TH YEAR STUDENTS:
+
+SR. NO. | PARTICULARS | DOUBLE SEATER | FOUR SEATER
+
+1. Room Rent | Rs. 15,000 | Rs. 7,500
+2. Advance Electricity Charges (Adjustable as per Actuals) | Rs. 7,500 | Rs. 7,500
+3. Advance Water Charges (Adjustable as per Actuals) | Rs. 2,000 | Rs. 2,000
+4. Recreation | Rs. 2,000 | Rs. 2,000
+5. Allied Services | Rs. 10,000 | Rs. 10,000
+6. Mess Charges (Adjustable as per Actuals) | Rs. 20,000 | Rs. 20,000
+7. Caution Money (Refundable) | Rs. 2,000 | Rs. 2,000
+
+GRAND TOTAL HOSTEL CHARGES (4th Year):
+- Double Seater: Rs. 58,500
+- Four Seater: Rs. 51,000
+
+Note: In case of the 4th year (Final Year), the students opting for 6 Months outside campus internship and not staying in the Hostel shall have to pay reduced fees depending on occupancy type. The fees shall be payable at the start of the On campus Semester. The students residing for the full year in Hostel have to pay full fees as applicable for 2nd/3rd year for 4th year also.
+
+---
+
+HOSTEL FEES FOR FIRST TIME HOSTEL ADMISSION (All Years):
+
+SR. NO. | PARTICULARS | DOUBLE SEATER | FOUR SEATER
+
+1. Room Rent | Rs. 30,000 | Rs. 15,000
+2. Advance Electricity Charges | Rs. 15,000 | Rs. 15,000
+3. Advance Water Charges | Rs. 2,000 | Rs. 2,000
+4. Recreation | Rs. 2,000 | Rs. 2,000
+5. Allied Services | Rs. 20,000 | Rs. 20,000
+6. Mess Charges | Rs. 40,000 | Rs. 40,000
+7. Mess Deposit (one time) | Rs. 2,000 | Rs. 2,000
+8. Caution Money (Refundable) | Rs. 2,000 | Rs. 2,000
+9. Depreciation Fund (One Time) | Rs. 5,000 | Rs. 5,000
+10. Welfare Fee (One Time) | Rs. 5,000 | Rs. 5,000
+
+GRAND TOTAL (First Time Admission):
+- Double Seater: Rs. 1,23,000
+- Four Seater: Rs. 1,08,000
+
+Odd Semester Fees:
+- Double Seater: Rs. 88,000
+- Four Seater: Rs. 80,500
+
+Even Semester Fees:
+- Double Seater: Rs. 35,000
+- Four Seater: Rs. 27,500
+
+---
+
+IMPORTANT NOTES:
+
+1. Allotment of the Rooms in the Hostel shall be done on "First Come First Serve" Basis.
+
+2. Students have to deposit the Odd Semester Fees as indicated above to facilitate Hostel Allotment.
+
+3. The room Allotment shall be done by the Institute and no change shall be permitted without prior approval of the Competent Authority.
+
+4. Mess charges and electricity charges are adjustable as per actual consumption.
+
+5. Caution Money is refundable at the time of leaving the hostel.
+"""
+

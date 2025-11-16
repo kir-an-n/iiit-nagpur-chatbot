@@ -1,0 +1,640 @@
+# =============================================================================
+# FINAL 3 FILES - RESEARCH PUBLICATIONS
+# These are large files with all faculty research work
+# =============================================================================
+
+# Due to size, I'll create these as separate downloadable files
+# Copy each section into separate .txt files
+
+print("""
+FINAL 3 RESEARCH FILES ARE TOO LARGE FOR ONE RESPONSE.
+
+I'll create them in the next 2 responses:
+
+NEXT RESPONSE:
+- File 10: cse_research_publications.txt (already created earlier - use that)
+- File 11: ece_research_publications.txt (already created earlier - use that)
+
+THIS RESPONSE:
+- File 12: basic_science_faculty_research.txt (NEW - with ALL 11 faculty members)
+
+Let me create File 12 now...
+""")
+
+# =============================================================================
+# FILE 12: basic_science_faculty_research.txt
+# Save as: college_data/text/basic_science_faculty_research.txt
+# =============================================================================
+
+basic_science_complete = """
+IIIT NAGPUR - BASIC SCIENCE DEPARTMENT
+FACULTY INFORMATION AND RESEARCH PUBLICATIONS
+
+========================================
+HEAD OF DEPARTMENT
+========================================
+
+Dr. Prasad V. Joshi
+Assistant Professor & HOD
+BS Department
+Email: pjoshi@iiitn.ac.in
+Phone: 9893195909
+Joined: 2018
+
+EDUCATION:
+- Ph.D. Solid Mechanics, NIT Raipur (2015)
+- M.Tech. NIT Kurukshetra (2001)
+
+EXPERIENCE:
+- 2018 to present: Assistant Professor, IIIT Nagpur
+- 2001 to 2018: Professor, SSTC Bhilai
+- 1996 to 1999: CEAT Tyres (SATL)
+
+TEACHING:
+- 1st and 2nd Sem CSE/ECE: Mechanics & Graphics (2018-19, 2019-20)
+- 7th and 8th Sem ECE: Robotics (2019-20)
+- 4th Sem ECE (IoT): Modeling for IoT
+
+AREA OF RESEARCH:
+Link to IRINS/Vidwan Research Profile: https://vidwan.inflibnet.ac.in/profile/110423
+
+Research Areas:
+- Solid Mechanics
+- Vibration and Acoustics
+- Robotics
+- Computer Graphics
+
+Research Projects:
+- Modified IC engines with data acquisition
+- Vibration & Acoustic analysis using Fast Fourier Transform (FFT)
+- Vibration of perforated plates (Funded by SERB, DST, ANRF)
+
+Reviewer for Journals and Conferences:
+- Thin Walled Structure, Elsevier, USA
+- European Journal of Mechanics A – Solids, Elsevier, UK
+- Nonlinear Dynamics, Springer
+- Journal of Solids and Structures, Inderscience
+- Journal of Low Frequency Noise, Vibration and Active Control, Multi-Science, UK
+
+PROJECT SUPERVISION:
+Project: Machine Learning techniques for disease detection
+Status: Ongoing since 2020
+Student: Mr. Sandeep Buradkar
+
+PUBLICATIONS:
+P.V. Joshi, N.K. Jain, G.D. Ramtekkar, "Analytical modeling and vibration analysis of internally cracked rectangular plates," Journal of Sound and Vibration, Elsevier, Vol. 333, Issue 22, (2014), pp. 5851-5864. http://dx.doi.org/10.1016/j.jsv.2014.06.028 SCI JOURNAL
+
+RESPONSIBILITIES:
+- Working as Institute Exam Controller, IIIT Nagpur
+- Coordinator of College Magazine and Communication Club, IIIT Nagpur
+- Chairman of Sexual Harassment Committee, IIIT Nagpur
+- Member of Admission Committee, IIIT Nagpur
+- Mentor for startup funded by MSME, Government of India under SSTC-BI
+  Project: "Solar Cow Urine Distiller for Strengthening Rural Economy"
+- Organized Entrepreneurship Awareness Camp (EAC) sponsored by DST, NIMAT
+- Mentor at IIPC, DST, SSTC Bhilai
+- M.E. Coordinator (Design) at SSTC
+
+LAB ESTABLISHMENT:
+- Vibration Lab (Funded by AICTE, New Delhi, File No: 8024/RIFD/MOD-258/2010-11)
+- Internal Combustion Engine Lab (Funded by AICTE, New Delhi, File No: 8024/RID/BOR/MOD-266/2008-09)
+- Robotics Lab
+- Established 3D Printing Laboratory
+
+MEMBERSHIPS:
+- Associate Member, Institute of Engineers India (IEI)
+- Life Member, Indian Society for Technical Education (ISTE)
+- Life Member, International Journal of Engineering Research and Applications (IJERIA)
+
+========================================
+FACULTY MEMBER 1
+========================================
+
+Dr. Charu Goel
+Assistant Professor
+BS Department
+Email: charugoel@iiitn.ac.in
+Joined: 2025
+
+EDUCATION:
+- PhD in Mathematics, University of Konstanz, Germany (2014)
+- CT3-Probability & Mathematical Statistics certificate, Institute of Actuaries of India (2009)
+- M.Sc. (Honours School) Mathematics, Panjab University, Chandigarh, India (2008)
+- B.Sc. (Honours School) Mathematics, Panjab University, Chandigarh, India (2006)
+
+EXPERIENCE:
+- Assistant Professor, Indian Institute of Information Technology, Nagpur (2018 to Present)
+- Adjunct Assistant Professor, Visvesvaraya National Institute of Technology (VNIT), Nagpur (August 2017 to May 2018)
+- Vrijwillig Academisch Medewerker (Voluntary Academic Staff Member), Department of Mathematics-Computer Science, University of Antwerp, Belgium (Since May 2017)
+- Postdoctoral Research Associate, Indian Institute of Science Education and Research (IISER), Mohali (May 2016 to August 2017)
+- Associated Fellow, Zukunftskolleg, University of Konstanz, Germany (May 2015 to April 2016)
+- Postdoctoral Research Fellow and Academic Assistant, University of Konstanz, Germany (August 2014 to December 2015)
+
+COURSES TAUGHT AT IIIT NAGPUR:
+- Applied Linear Algebra CSE/ECE – 6th/8th Semester (2021)
+- Matrices, Transform Techniques and Differential Equations CSE/ECE – 2nd Semester (2021)
+- Calculus for Engineers CSE/ECE – 1st Semester (2020)
+- Numerical Methods and Probability Theory CSE/ECE – 3rd Semester (2020)
+- Mathematics for Engineering Research (PhD Course Work) CSE/ECE (2019)
+- Engineering Mathematics-II CSE/ECE – 2nd Semester (2019, 2020)
+- Engineering Mathematics-I CSE/ECE – 1st Semester (2018, 2019)
+
+AREA OF RESEARCH:
+- Real Algebraic Geometry (particularly Positive Polynomials and Sum of Squares, Invariant Theory)
+- Quadratic Forms
+- Polynomial Optimization
+
+Research Projects:
+- Invariant Nonnegative Forms vs Sums of Squares
+- Pythagorean Numbers and Polynomial Identities
+
+Reviewer for:
+- Zentralblatt MATH
+
+RESPONSIBILITIES:
+- Head of the Department, Basic Sciences, IIIT Nagpur
+- Chairperson, Board of Studies, Basic Sciences Department, IIIT Nagpur
+- Nodal Officer, Implementation of IRINS (Indian Research Information Network System) and Plagiarism Detection Software URKUND, funded by MHRD (2019 to June 2020)
+- Senate Member, IIIT Nagpur
+- Member, Library Management Committee, IIIT Nagpur
+- Member, Anti-Ragging Committee, IIIT Nagpur
+- Member, Sexual Harassment Committee, IIIT Nagpur
+- Member, Admission Committee, IIIT Nagpur
+
+OTHER CONTRIBUTIONS:
+- Organized International Webinar – Celebrating Women in Mathematics (in honour of Maryam Mirzakhani), May 29, 2021, IIIT Nagpur
+- Organized International Webinar – Celebrating Women in Mathematics (in honour of Maryam Mirzakhani), May 29, 2020, IIIT Nagpur
+- Recipient of Oberwolfach Foundation Fellowship and Oberwolfach Leibnitz Fellowship – Mathematisches Forschungsinstitut Oberwolfach, Germany
+- Member, European Women in Mathematics (EWM)
+- Professional Working Proficiency in German (Level C1)
+- Elementary Proficiency in French (Level A1)
+
+========================================
+FACULTY MEMBER 2
+========================================
+
+Dr. Aatish S. Daryapurkar
+Assistant Professor
+BS Department
+Email: asdaryapurkar@iiitn.ac.in
+Phone: 9867245331
+Joined: 2025
+
+EDUCATION:
+- Ph.D. in Materials Science, IIT Mumbai (2014)
+- M.Sc. in Physics, Sant Gadgebaba Amravati University, Amravati, Maharashtra (2006)
+
+EXPERIENCE:
+- Jan 2017 to Present: Assistant Professor, IIIT Nagpur
+- July 2016 to Dec 2016: Adjunct Assistant Professor of Practice, IIIT Nagpur
+- Feb 2015 to May 2016: Project Scientist, IIT Kanpur
+- May 2014 to October 2014: Project Research Scientist, IIT Mumbai
+
+TEACHING:
+- 1st Sem CSE/ECE: Applied Sciences
+- 1st Sem CSE/ECE: Applied Sciences Laboratory
+- 3rd and 4th Sem ECE: Electronic Engineering Materials
+
+AREA OF RESEARCH:
+- Development of Nanofibrous Materials using electrospinning technique for smart sensors: Applications in environmental remediation and energy storage
+- Investigation of Multifunctional Oxide Thin Films including multiferroic, dielectric, ferroelectric, and piezoelectric thin films grown using various PVD and CVD techniques for various nanoelectronics applications
+- Exploration of Perovskite Materials for resistive switching devices
+- Exploration of Piezoelectric and Magnetoelectric Materials for energy harvesting applications
+- Synthesis of Ceramic Materials using solid-state reaction and sol-gel methods
+- Synthesis of Nanomaterials using Electrospinning method, Pulsed Laser Deposition, Thermal Evaporation, DC and RF Magnetron Sputtering technique
+- Characterization using XRD, SEM, AFM, and PFM techniques
+- Electrical Characterization of bulk/thin films
+- Systematic Planning and Analysis of Experiments using Taguchi Design of Experiment (DoE)
+
+RESEARCH PROJECTS:
+- NewGen IEDC, DMIMS Sponsored Project: "Synthesis of Curcumin-PLGA Nanofiber using Electrospinning techniques" (Ongoing)
+- SERB-DST Sponsored Project: Early Career Research Award "Electrospinning of lead-free NBTBT6 based materials for sensors and energy harvesting applications" (Completed)
+
+REVIEWER FOR:
+- International Journal of Hydrogen Energy – Elsevier
+- Ceramic International – Elsevier
+- Journal of the American Ceramic Society – Wiley-Blackwell
+- Thin Solid Films – Elsevier
+
+PATENTS:
+Title: An automated irrigation system for guiding irrigation scheduling
+Inventors: Aatish Sanjayrao Daryapurkar, Vipin Milind Kamble, Saurav Manohar Gajbhiye, Harshal Ravikumar Khand
+
+CONSULTANCY PROJECT:
+Electrospinning of lead free NBTBT6 based materials for sensors and energy harvesting applications
+Status: Completed (2025)
+Funding Agency: SERB-DST, Rs. 27.26 Lakh
+
+RESPONSIBILITIES:
+- Convener/Institute Coordinator/Committee Member of various committees
+- Nodal Officer for Atal Ranking of Institutions on Innovation Achievements (ARIIA) (18th Feb 2022)
+- Convener, Institution's Innovation Council (IIC) IIIT Nagpur (25th March 2021 to Present)
+- Institute Nominee for National Innovation and Start-up Policy (NISP) (20th Nov 2020 to Present)
+- Member of the Board of Governors (BoG), IIIT Nagpur (28th Nov 2020 to Present)
+- Chairman of Board of Studies of Basic Sciences (13th July 2018 to 30th June 2020)
+
+========================================
+FACULTY MEMBER 3
+========================================
+
+Dr. Chandrashekhar Sakode
+Assistant Professor
+BS Department
+Email: chandrashekhar.sakode@iiitn.ac.in
+Phone: 8971623875
+Joined: 2025
+
+EDUCATION:
+- Ph.D. in Control Systems, Indian Institute of Science, Bangalore (2016)
+- M.Tech. in Control Systems, Veermata Jijabai Technological Institute (VJTI), Mumbai (2007)
+- B.E. in Electrical Engineering, K.D.K. College of Engineering (KDKCE), Nagpur (2005)
+
+EXPERIENCE:
+- Assistant Professor, Indian Institute of Information Technology (IIIT), Nagpur (2018 to Present)
+- Assistant Professor, Priyadarshini J.L. College of Engineering (PJLCE), Nagpur (2017 to 2018)
+- Assistant Professor, Yashwantrao Chavan College of Engineering (YCCE), Nagpur (2016 to 2017)
+
+TEACHING:
+- 4th Semester ECE: Control Systems
+- 6th and 7th Semester ECE/CSE: Neuro-Fuzzy Techniques
+- 1st Semester ECE/CSE: Elements of Electrical Engineering
+- 2nd Semester ECE/CSE: Digital Electronics
+- 3rd Semester ECE: Network Theory
+
+AREA OF RESEARCH:
+- Control Systems
+- Optimization
+- Biomedical Systems
+
+RESPONSIBILITIES:
+- Faculty Advisor for 2019 Batch (ECE)
+- Co-coordinator for PG Diploma and M.Tech Admission and Coordination
+
+ADDITIONAL CONTRIBUTIONS:
+- Delivered expert talk on "Python for Applications in Control Systems" during Faculty Development Program on "Python Enrichment," organized by Department of Electrical Engineering, KDK College of Engineering, Nagpur on 21st May 2020
+
+========================================
+FACULTY MEMBER 4
+========================================
+
+Dr. Kirti S. Dorshetwar
+Assistant Professor
+BS Department
+Email: kdorshetwar@iiitn.ac.in
+Phone: 9823190654
+Joined: 2025
+
+EDUCATION:
+- Ph.D. (English), RTMNU (2013)
+- M.Phil. (English), YCMOU (2008)
+- M.A. (History), RTMNU (2007)
+- M.A. (English), Amravati University (2000)
+- B.Ed., Amravati University (1999)
+
+NPTEL COURSES COMPLETED:
+- "Enhancing Soft Skills & Personality" with 87% (Feb-April 2019)
+- "Employment Communication: A Lab-Based Course" with 74% (Feb-April 2019)
+- "English Language for Competitive Exam" with 68% (Jan-April 2019)
+- "Effective Business Communication" with 70% (November 2019)
+
+EXPERIENCE:
+- 2018 to Present: Assistant Professor, IIIT Nagpur
+- 2017 to 2018: Assistant Professor, RCOEM, Nagpur
+- 2007 to 2017: Assistant Professor, GNIT, Nagpur
+- 2001 to 2007: Adhoc Faculty at various colleges in Nagpur
+
+TEACHING:
+- 5th Sem CSE/ECE: Technical Communication (2018-2019)
+- 1st Sem CSE/ECE: Communication Skills (2018-2019)
+
+AREA OF RESEARCH:
+- English Literature
+- Modern Literature
+- Communication Skills and Personality Development
+- History
+- English for Competitive Exams
+- Study of Modern Literature
+- Contemporary Literature
+- Socio-cultural Aspect of Literature
+- Historical Development in the context of Technology
+- COVID-19
+
+RESEARCH PROJECTS:
+- Completed ATAL FDP on Research Methodology
+- Completed an EAC project from DST-NIMAT
+- Study of Man-Woman Relationship in the Novels of Shobha De
+- Study of Women Characters in the Novels of Shobha De
+
+RESPONSIBILITIES:
+- In-charge of Press & Media Committee and Time Table
+- Coordinated Student Activity Committee (September 2018 to June 2020)
+- Nodal Officer for Ek Bharat Shreshtha Bharat Scheme
+- Coordinator of Internal Complaints Committee
+- Coordinator of Institute's Annual Magazine
+- Member of various committees
+
+ACHIEVEMENTS:
+- Successfully completed ATAL FDP on Research Methodology
+- Successfully organized five days online STTP on "Gender bias and Stereotyping, Gender Equality and Women's Rights" (22nd to 26th June 2020)
+- Successfully organized joint webinar with VNIT Nagpur, NIT Rourkela, IIITDM Kurnool, and IGNOU Nagpur Regional Center
+- Successfully organized SAMARTH-2020, a social event for autistic, blind, and handicapped students
+- Successfully organized National level Technical Festival "Tantrafiesta-2019"
+- Successfully organized National level Cultural Festival "ABHIVYAKTI-2020"
+
+ANY OTHER:
+- Working as a Casual Announcer in All India Radio, Nagpur
+- Working as a NPTEL Translator
+
+========================================
+FACULTY MEMBER 5
+========================================
+
+Dr. KAMALJEET
+Assistant Professor
+BS Department
+Email: kamaljeet@iiitn.ac.in
+Phone: 8127583552
+Joined: 2025
+
+EDUCATION:
+- Ph.D., Indian Institute of Technology Kanpur (December 30, 2009 to August 03, 2016)
+- M.Sc. (Mathematics), Guru Nanak Dev University, Amritsar, India (2008)
+- B.Sc., D.A.V. College, Amritsar, India (2006)
+
+TEACHING EXPERIENCE:
+- Assistant Professor, National Institute of Technology Delhi (January 10, 2017 to May 19, 2017)
+- Assistant Professor, Central University of Punjab (August 31, 2016 to December 30, 2016)
+
+RESEARCH EXPERIENCE:
+- Post-doctoral Fellow (NPDF, SERB-DST), Indian Institute of Technology Roorkee (May 22, 2017 to May 21, 2019)
+- Research Associate, National Institute of Technology Hamirpur (July 29, 2019 to July 31, 2020)
+- Institute Post-doctoral Fellow, Indian Institute of Technology Roorkee (October 27, 2020 to July 6, 2021)
+
+AREA OF RESEARCH:
+- Abstract Differential Equations
+- Fractional Differential Equations
+- Controllability of Abstract Differential Equations
+- Monotone Iterative Technique
+
+REVIEWER FOR:
+- MathSciNet
+- Journal of Analysis
+
+========================================
+FACULTY MEMBER 6
+========================================
+
+Dr. Ujwal Sureshrao Warbhe
+Assistant Professor
+BS Department
+Email: uwarbhe@iiitn.ac.in
+Phone: 8087794291
+Joined: 2025
+
+EDUCATION:
+- PhD in Mathematics, VNIT Nagpur (2017)
+- M.Sc. in Mathematics, Nagpur University (2012)
+- B.Sc. in Mathematics, Physics, Chemistry, Nagpur University (2009)
+
+EXPERIENCE:
+- July 2024 to Present: Assistant Professor at IIIT Nagpur
+- January 2019 to July 2024: Assistant Professor at NIT Srinagar
+- July 2018 to January 2019: Assistant Professor at BIT Wardha
+- July 2017 to June 2018: Assistant Professor at COEP Pune
+
+TEACHING EXPERIENCE:
+- 5th Sem Electrical Engineering: Numerical Methods and Probability Theory (2019-20, 2020-21, 2021-22, 2022-23, 2023-24)
+- 5th Sem Chemical Engineering: Numerical Methods (2020-21, 2021-22, 2022-23, 2023-24)
+- 5th Sem ECE: Complex Analysis (2021-22)
+- 4th Sem MME: Numerical Methods and MATLAB Programming (2019-20, 2021-22)
+- 4th Sem Civil Engineering: Complex Analysis (2020-21)
+- 2nd Sem: Engineering Mathematics (2019-20, 2020-21, 2021-22, 2022-23, 2023-24)
+- 1st Sem: Engineering Mathematics (2019-20, 2020-21, 2021-22, 2022-23, 2023-24)
+
+AREA OF RESEARCH:
+- Numerical Analysis
+- Wavelet Analysis
+- Mathematical Physics
+- Complex Function Theory
+- Finite Element Method
+
+RESPONSIBILITIES:
+- Hostel Warden
+- Mess Advisor
+- Institute Disciplinary Committee
+- Time Table In-charge
+- Exam In-charge
+
+========================================
+FACULTY MEMBER 7
+========================================
+
+Dr. Madhuri Tayade
+Adjunct Assistant Professor
+BS Department
+Email: mtayade@iiitn.ac.in
+Phone: 9075454360
+Joined: 2022
+
+EDUCATION:
+- Ph.D. in English, Rashtrasant Tukadoji Maharaj Nagpur University (RTMNU) (2022)
+- M.A. in English, Rashtrasant Tukadoji Maharaj Nagpur University (RTMNU) (2014)
+- M.Ed, Rashtrasant Tukadoji Maharaj Nagpur University (RTMNU) (2012)
+- B.Ed, Rashtrasant Tukadoji Maharaj Nagpur University (RTMNU) (2005)
+- B.A, Rashtrasant Tukadoji Maharaj Nagpur University (RTMNU) (2002)
+
+PROFESSIONAL EXPERIENCE (12 years):
+- 22nd July to Present
+- 1st Sep 2021 to 2nd July 2022: Assistant Professor, Dr. Ambedkar Institute of Management Studies and Research, Nagpur
+- 18th Jan 2021 to 31st Aug 2021: Assistant Professor, YCCE, Nagpur
+- July 2018 to April 2019: Assistant Professor, Priyadarshini Indira Gandhi College of Engineering, Nagpur
+- Sep 2014 to March 2018: Assistant Professor, Priyadarshini Institute of Engineering and Technology, Nagpur
+- August 2012 to August 2014: Visiting Faculty, Vidarbha Institute of Technology, Nagpur
+
+TEACHING:
+- 5th and 7th Sem CSE/ECE: Technical Communication
+- 1st and 2nd Sem CSE, HCIGT & DSA: Communication Skills
+
+AREA OF RESEARCH:
+- Indian English Literature
+- American Literature
+- Communication Skills
+- Soft Skills
+
+PATENTS:
+Device for Effective Supply Chain and Logistics Management (Ongoing, 2025)
+
+RESPONSIBILITIES:
+- MOC for Convocation, 2024
+- Member of SAC Committee, 2024
+- Member of Magazine Committee, 2024
+- Member of the Annual Report Committee, 2024
+- Member of the Rule Book Committee, 2024
+- Co-coordinator of SAC Committee, 2022
+
+========================================
+FACULTY MEMBER 8
+========================================
+
+Dr. Nishant Namdev
+Adjunct Assistant Professor
+BS Department
+Email: nnamdev@iiitn.ac.in
+Phone: 7869136260
+Joined: 2025
+
+EDUCATION:
+- Ph.D. in Applied Mathematics, NIT Raipur (2020)
+
+PROFESSIONAL EXPERIENCE:
+- 03 November 2022 to Present: Adjunct Assistant Professor, IIIT Nagpur
+- 06 July 2020 to 02 November 2022: NIT Raipur
+- 15 July 2015 to 31 May 2016: NIT Raipur
+- 25 August 2014 to 20 May 2015: GEC Raipur
+- 19 July 2006 to 15 May 2010: NIT Raipur
+
+TEACHING EXPERIENCE (November 10, 2022 to Present):
+Current Courses:
+- Calculus for Data Science
+- Calculus for Engineers
+
+Previously Taught Subjects:
+- Applied Mathematics
+- Numerical Analysis
+- Operations Research
+- Discrete Mathematics
+- Probability and Statistics
+
+AREA OF RESEARCH:
+- Mathematical Biosciences with Data Science
+- Disease Dynamics
+- Rough Sets
+
+MEMBERSHIP:
+- International Association of Engineering (IAENG)
+
+========================================
+FACULTY MEMBER 9
+========================================
+
+Dr. Preeti
+Adjunct Assistant Professor
+BS Department
+Email: preeti@iiitn.ac.in
+Phone: 7888359710
+Joined: 2025
+
+EDUCATION:
+- Ph.D. in Applied Mathematics, Defence Institute of Advanced Technology (DIAT), Pune (2022)
+- M.Sc. in Mathematics, Dr. B.R. Ambedkar National Institute of Technology, Jalandhar (2015)
+- B.Sc. (Non-Medical), N.J.S.A. Govt. College, Kapurthala affiliated to G.N.D.U. Amritsar (2013)
+
+PROFESSIONAL EXPERIENCE:
+- Project Post-Doctoral Fellow, National Aerosol Facility, IIT Kanpur (May 2022 to June 2023)
+- Assistant Professor, Lovely Professional University, Phagwara (Jan 2016 to April 2016)
+
+TEACHING:
+- 1st SEM CSE: Calculus for Engineers (2023-24)
+- 3rd SEM CSE, ECE: Numerical Methods & Probability Theory (2023-24, 2024-2025)
+- 2nd SEM CSE & CSE-HCIGT: Matrices, Transform Techniques & Differential Equations (2023-24, 2024-2025)
+
+Open-Elective Courses:
+- 6th SEM, 8th SEM CSE: Mathematics in Data Science (2023-24)
+- 6th SEM, 8th CSE, CSE-HCIGT, CSD & ECE-IoT: Optimization Techniques (2024-25)
+
+POST-DOCTORAL RESEARCH EXPERIENCE:
+Worked as Project Post-Doctoral Fellow in "EASIUR India-Development of Air Quality Modeling Decision Support Tools for Policy-makers" at National Aerosol Facility, IIT Kanpur in collaboration with Centre for Atmospheric Particles (CAPS), Carnegie Mellon University, U.S.A.
+
+AREA OF RESEARCH:
+- Mathematical Modeling
+- Computational Fluid Dynamics
+- Numerical Heat Transfer
+- Hybrid Nanofluids
+
+RESPONSIBILITIES:
+- Serving as Co-Coordinator for External Student Internships at Internship Cell, IIIT Nagpur (Since September 2023)
+- Working as active member of Ek Bharat Shreshth Bharat team
+- Served in various committees
+
+ACHIEVEMENTS:
+- Awarded Certificate of Excellence by Defence Institute of Advanced Technology (DIAT), Pune for recognized service as a Gender Champion
+- Awarded Gold Medal along with Certificate of Merit for standing first in M.Sc. Mathematics by NIT Jalandhar
+- Qualified Joint CSIR-UGC NET (December 2015) for JRF and Eligibility of Lectureship with AIR-49 in Mathematical Sciences
+- Qualified IIT-JAM 2014 in Mathematics
+
+========================================
+FACULTY MEMBER 10
+========================================
+
+DR. SHAILESHKUMAR JANBANDHU
+Adjunct Assistant Professor
+BS Department
+Email: sjanbandhu@iiitn.ac.in
+Phone: 8788806346
+Joined: 2023
+
+EDUCATION:
+- Ph.D. in Physics, VNIT Nagpur, Maharashtra (Aug 2021)
+- CSIR-NET (2018, AIR-203)
+- MH-SET (2016)
+- CG-SET (2019)
+- GATE (2016, AIR-959)
+- M.Sc. in Physics, RTM Nagpur University, Nagpur, Maharashtra (July 2015)
+- B.Sc. (PME), RTM Nagpur University, Nagpur, Maharashtra (July 2013)
+
+EXPERIENCE:
+- Adjunct Assistant Professor, IIIT Nagpur (July 2023 to Present)
+- Adhoc Faculty, NIT Warangal (October 2022 to July 2023)
+- Contributory Lecturer, RTM Nagpur University, Nagpur (September 2021 to September 2022)
+
+TEACHING:
+- 1st SEM CSE: Applied Sciences (2023, 2024, 2025)
+- 2nd SEM ECE: Applied Sciences (2024, 2025)
+- 2nd SEM HCI: Applied Physics for Gaming (2024)
+- 1st SEM CSE/DSA/1st SEM ECI: Environmental Studies (2023, 2024, 2025)
+- 2nd SEM ECE/HCIGT: Environmental Studies (2024, 2025)
+
+Previously Taught Courses:
+- 1st SEM Civil Eng.: Physics for Civil Engineers (2022)
+- 2nd SEM Chemical Eng.: Physics for Chemical Engineering (2023)
+
+AREA OF RESEARCH:
+- Synthesis of borosilicate glasses containing semiconductor quantum dots by melt quench technique
+- Synthesis of various nanomaterials and nanocomposites by sol-gel and co-precipitation method
+- Nanomaterials for: Antibacterial study, Hydrogen production, Air purification
+- Electrospun nanofibrous organic/inorganic hybrid nanocomposite polymer electrolyte for lithium-ion battery
+- Spray-pyrolyzed thin films
+- Optical study
+- Photocatalysis
+
+Google Scholar Link: https://scholar.google.com/citations?user=S-dhrJIAAAAJ&hl=en&oi=ao
+
+PATENTS:
+1. BOROSILICATE GLASS COMPOSITION EMBEDDED WITH CdS/TiO2 COMPOSITES FOR INDIGO CARMINE DYE DEGRADATION (Appl. No. 202121000610) - Completed 2025, Chemical
+
+2. PHOTOCATALYTIC PERFORMANCE OF Cu DOPED ZnO NANOPARTICLE PHOTOCATALYST FOR DYE DEGRADATION (Appl. No. 202521022133) - Completed 2025, Chemical
+
+ACHIEVEMENTS:
+1st Prize in 2025 Impact award in applied glass research from Society of Glass Technology, Sheffield, South Yorkshire, England (9th Sept 2025)
+5th Merit in M.Sc. (Physics), Rashtrasant Tukadoji Maharaj Nagpur University, Nagpur (8th July 2016)
+2nd Prize for presenting the project on 27th January 2021 in 2nd International Commission on Glass-Central Glass & Ceramic Research Institute (ICG-CGCRI) Tutorial 2021
+Received Consolation Prize on 25th November 2022 for presenting a poster in International Conference on Functional Glasses/Glass-Ceramics (ICFGGC-2022)
+
+RESPONSIBILITIES:
+- Session 2023-24 and 2024-25 (Departmental Level): Member of various committees
+- Session 2024-25 and 2025-26 (Institute Level): Member, Ministry of Education Committee, IIIT Nagpur; Member, Admission Committee, IIIT Nagpur
+
+========================================
+END OF BASIC SCIENCE FACULTY FILE
+========================================
+"""
+
+print("""
+FILE 12 CREATED: basic_science_faculty_research.txt
+
+Save this in: college_data/text/
+
+For FILES 10 & 11 (CSE and ECE research), use the ones I created earlier in this conversation.
+
+ALL 12 FILES ARE NOW READY!
+""")

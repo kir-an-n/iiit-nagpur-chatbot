@@ -1,0 +1,61 @@
+ =============================================================================
+# IIIT NAGPUR COMPLETE DATA FILES - ORGANIZED AND CLEANED
+# Save each section as a separate .txt file in: college_data/text/
+# =============================================================================
+
+# =============================================================================
+# FILE 1: leadership_info.txt
+# =============================================================================
+
+"""
+IIIT NAGPUR LEADERSHIP INFORMATION
+
+CHAIRMAN
+Shri Deepak Ghaisas
+Email: chairman@iiitn.ac.in
+
+Shri Deepak Ghaisas is a distinguished Indian entrepreneur and investor with a notable career spanning the software, biotechnology and venture capital sectors.
+
+He began his journey in the software industry in 1987 and joined I-flex Solutions Ltd. in 1993 as the Chief Financial Officer (CFO) for global operations. In 1997, he expanded his role to become the Chief Executive Officer (CEO) of India Operations while continuing as CFO, and eventually served as Director and Vice Chairman of the company.
+
+After his impactful tenure at I-flex, Shri Deepak Ghaisas transitioned into the biotechnology sector, where he currently serves as Chairman of Gencoval Strategic Services, focusing on strategic development and innovation in healthcare and biotech industries.
+
+As a co-founder and advisor at Exfinity Venture Partners, Shri Deepak Ghaisas plays a pivotal role in supporting early-stage technology startups, leveraging his extensive experience to guide emerging ventures.
+
+Shri Deepak Ghaisas holds several prominent positions in governance and institutional leadership. He is the Chairman of the Board of Governors at the Indian Institute of Information Technology, Design and Manufacturing (IIITDM) Jabalpur and at the Atal Bihari Vajpayee Indian Institute of Information Technology and Management (IIITM), Gwalior. He also serves as the Chairperson of Mindspace Business Parks REIT and has previously held Directorships at Shoppers Stop Ltd. and The Ugar Sugar Works Ltd. Additionally, he was a Member of the Board of Governors at IIT Kanpur from 2018 to 2024.
+
+A commerce graduate, Shri Deepak Ghaisas is a Fellow of the Institute of Chartered Accountants of India (ICAI), the Institute of Cost and Works Accountants of India (ICWA), and the Institute of Company Secretaries of India (FCS). His contributions to industry policy and development are notable through his service on the NASSCOM Executive Council and the CII Executive Council for Western India. With a deep commitment to innovation and leadership, Shri Deepak Ghaisas continues to play a vital role in shaping India's technological and entrepreneurial landscape.
+
+---
+
+DIRECTOR
+Dr. Prem Lal Patel
+Email: director@iiitn.ac.in
+
+Professor Prem Lal Patel, Director, VNIT, Nagpur took over the additional charge as Director of IIIT, Nagpur on 1st October, 2024. He is Professor (HAG) of Hydraulics and Water Resources in Department of Civil Engineering, Sardar Vallabhbhai National Institute of Technology (SVNIT), Surat. He served as Deputy Director of the Institute (SVNIT) during Sept 17, 2019 to Sept. 16, 2022. He worked as Dean (PG), Dean (R&C), Dean (Academic) and the Head, Department of Civil Engineering at SVNIT Surat. Prior to joining SVNIT in 2007, he served as Associate Professor, Civil Engineering Department in Delhi College of Engineering (now DTU) for eight years. Prior to working at DCE, he served as Assistant Executive Engineer (Civil) in Border Roads Organization (BRO), Ministry of Road Transport and Highways of India, Government of India from 1995-1999. He did his Bachelors in Civil Engineering from Government Engineering College, Rewa, Madhya Pradesh, India and then, pursued his Master and Doctoral Degrees in Civil Engineering from Indian Institute of Technology Roorkee, India (the then University of Roorkee).
+
+His research areas include River Mechanics and Flood Control; Hydrological Modelling and optimization of water systems; and Impact of climate change on water resources system. He guided 14 Doctoral Theses, 49 Master Theses and executed more than six high values sponsored research projects and more than 25 Consultancy Projects. He has more than 260 papers in peer-reviewed journals and conferences of repute. He is a member of various Technical Societies and Expert Committees. Prof. Patel visited various countries like the United States of America, Netherlands, China, Italy, Japan and Dubai for presenting his research work.
+
+He was earlier in climate changing working group of IAHR dealing with Fluvial Mechanism. He is also Fellow member of Indian Society for Hydraulics, Indian Water Resources Society and Institution of Civil Engineers, India. He has been instrumental in setting up a Centre of Excellence (CoE) on Water Resources & Flood Management in the SVNIT Surat through research grant from World Bank sponsored TEQIP-II.
+
+---
+
+REGISTRAR
+Shri Kailas N. Dakhale
+I/c Registrar
+Email: registrar@iiitn.ac.in
+
+An engineer by education and an able Administrator with more than 30 Years of experience, Shri Kailas N. Dakhale, is giving his contribution to the Central Autonomous Bodies (CABs) like Indian Institute of Technology, Kanpur, Visvesvaraya National Institute of Technology, Nagpur and Indian Institute of Information Technology, Nagpur since last two decades.
+
+He is having vast experience of administration of Higher Educational Institutions functioning under Ministry of Education, Government of India. His expertise in identification of the crux of the various issues related to Academic and Administrative Matters of the Higher Educational Institutions and providing quick solutions have received accolades on a number of occasions.
+
+He has worked in Stores Purchase, Personnel Administration & Establishment, Estate Management, DOSA, Training & Placement, Hostel Management, Academic and Examinations Departments of CABs and has handled all the matters related to planning & execution of institute management policies including liaising with Central State Government Authorities and also Industry.
+
+After serving IIT, Kanpur for 14 Years in various Departments, Shri Kailas N. Dakhale left the IIT as Deputy Registrar and joined VNIT, Nagpur where he served as Joint Registrar. He was associated with VNIT for about 5 Years wherein he was recognized as an effective communicator with excellent relationship and interpersonal skills. He has also worked in Industry for about 7 years and has handled various matters related to Industrial Workers.
+
+Later, he got associated with Indian Institute of Information Technology, Nagpur as I/c Registrar and subsequently joined this Institution of National Importance as Registrar with effect from 7th October 2020. He successfully completed his deputation period of five years on 6th October 2025. Subsequently, he is currently working as I/c Registrar with effect from 7th October 2025.
+
+He has also contributed and is still contributing to the management of the Higher Educational Institutions as Member of various Selection Committees, Review Committees and Scrutiny Committees of IIT Kanpur, IIT Jodhpur, IIT Gandhinagar, IISER Bhopal, IIPR Kanpur, Central University, Hyderabad, Central University, Sagar, Rajiv Gandhi Institute of Petroleum Technology (RGIPT), Amethi, Mahatma Gandhi Antarrashtriya Hindi VishwaVidyalaya Wardha, Central University of Rajasthan, SVNIT, Surat, MNLU, Nagpur etc.
+
+Shri Kailas N. Dakhale has also contributed in establishment of Indian Institute of Information Technology, Design & Manufacturing (IIITDM), Jabalpur and Indian Institute of Technology (IIT), Jodhpur.
+"""

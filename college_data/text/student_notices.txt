@@ -1,0 +1,27 @@
+"""
+IIIT NAGPUR - IMPORTANT STUDENT NOTICES
+
+NOTICE: SUMMER HEAT ADVISORY
+Date: 27th March 2025
+From: Registrar, IIIT Nagpur
+
+All the students are advised to note that Nagpur Area is known for its severe summer and the outside temperatures may rise up to 48 degrees Celsius. Summer heat waves can be dangerous and may result in mild dehydration to potentially life-threatening heat stroke.
+
+To protect your health when temperatures are very high all are advised to:
+
+1. Drink plenty of water in regular intervals even if you are not feeling thirsty. Avoid drinks like tea, coffee, carbonated soft drinks and instead consume local drinks like Lemon Juice or Lassi etc.
+
+2. Wear lightweight, light-colored, loose-fitting clothing. Cover your head and also face with cotton scarf during day-time.
+
+3. Use protective sun goggles, umbrella or hats while commuting from Academic Block to Hostel and vice-versa.
+
+4. Avoid any outdoor activity during mid-day between 12:00 PM to 3:00 PM when temperature is at peak.
+
+5. Avoid frequent in-out from the Air-Conditioned Class Rooms to Outdoor and vice-versa.
+
+6. In case of symptoms like severe headache, nausea, dizziness, weakness etc inform the Hostel Warden or consult the Doctor, if required.
+
+Signed,
+Kailas N Dakhale
+Registrar
+"""

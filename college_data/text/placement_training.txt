@@ -1,0 +1,145 @@
+# FILE 7: placement_training.txt
+# Save as: college_data/text/placement_training.txt
+# =============================================================================
+
+placement_training = """
+IIIT NAGPUR - TRAINING AND PLACEMENT INFORMATION
+
+ABOUT TRAINING & PLACEMENT OFFICE
+
+At IIIT Nagpur, the Training & Placement Office is of strategic importance. It takes various initiatives to transform the students into a smart workforce. The T&P Office believes in providing quality internships and placements to all its students.
+
+Consistent efforts are made to collaborate with leading organizations for joint technological development and research initiatives, internships, and placements. It acts as a Resource Centre, where students get information about various training programs, online courses, internships, and projects at various Government Organizations in India.
+
+---
+
+LEADERSHIP
+
+The Training & Placement office is headed by:
+- Sr. Office Associate T&P: Dr. Meera Jgadale
+- Faculty In-charge: Dr. Paritosh Peshwe
+- Supported by student representatives
+
+---
+
+CAMPUS RECRUITMENT TRAINING
+
+Campus Recruitment Training is a crucial aspect of the placement preparations. Students at IIIT Nagpur are critically trained on aspects like:
+- Aptitude Skills
+- Group Discussions
+- Interview Skills
+- Communication and Presentation Skills
+- Technical Interview Preparation
+
+Entrepreneurship:
+Students are also encouraged to take up entrepreneurship through interaction with startup founders and industry mentors.
+
+---
+
+WHY RECRUIT FROM IIIT NAGPUR
+
+Institute Excellence:
+- Established by MHRD, Government of Maharashtra, and Industry partners
+- Declared as Institution of National Importance by Act of Parliament
+- Rigorous academic curriculum and hands-on industry exposure
+- Students ready to contribute effectively in the corporate world
+
+Student Quality:
+- IIIT Nagpur is home to highly skilled and innovative students trained in various domains of technology and research
+- Only top 2% candidates taking JEE Mains Exam make it to IIIT Nagpur
+- Admissions happen through JoSAA (Joint Seat Allocation Authority)
+
+---
+
+INDUSTRY ACADEMIA COLLABORATION
+
+Industry Partnerships:
+- Tie up with Tata Consultancy Services Ltd as Industry Partner
+- MoU with ESIEE Paris for exchange programs
+- Collaborations with leading IT and technology companies
+
+Research Environment:
+- Research work is focused on IT Industry challenges
+- Fostering Industry-Academia Collaboration
+- Various student publications are supported and encouraged
+
+---
+
+CURRICULUM FEATURES
+
+Industry-Relevant Education:
+- Industry-relevant curriculum designed by Board of Studies with tech experts from IT industry
+- Choice Based Credit System allows students to choose subjects of interest
+- Credit-based mandatory industry internship for full semester in final year B.Tech
+
+Practical Exposure:
+- Hands-on projects and assignments
+- Industry mentored projects
+- Research opportunities with faculty
+
+---
+
+STUDENT ACTIVITIES AND CLUBS
+
+Technical Clubs:
+- Ack-Z: A white hat security club focusing on cybersecurity
+- DotSlash: Programming Community for fostering coding culture
+- REAP: A research club guiding students in their research interests
+
+Cultural Clubs:
+- Music Club: Bringing students together for musical expression
+- Art Club: Creative arts and visual expression
+- Dance Club: Dance performances and cultural activities
+
+Communication and Development:
+- 7C Club: Communication and Public Speaking club
+- Personality development workshops
+- Soft skills training
+
+---
+
+FLAGSHIP ANNUAL EVENTS
+
+ABHIVYAKTI:
+- The Annual Cultural Festival
+- Showcases student talent in cultural activities
+- Inter-college participation and competitions
+
+TANTRAFIESTA:
+- National Level Technical Event
+- Technical competitions and workshops
+- Industry experts and guest lectures
+- Innovation and project exhibitions
+
+---
+
+PLACEMENT PREPARATION RESOURCES
+
+Training Programs:
+- Regular aptitude training sessions
+- Mock interviews and group discussions
+- Resume building workshops
+- Technical skill enhancement programs
+
+Online Resources:
+- Information about various online courses
+- Guidance for competitive examinations
+- Career counseling and mentorship
+
+Government Organizations:
+- Information about projects at various Government Organizations
+- Research opportunities at national laboratories
+- Internship opportunities in public sector
+
+---
+
+CONTACT INFORMATION
+
+For Placement and Training Queries:
+Email: registrar@iiitn.ac.in
+Phone: 9405215010
+Website: www.iiitn.ac.in
+
+Download:
+IIIT Nagpur Training & Placement Brochure available on institute website
+"""

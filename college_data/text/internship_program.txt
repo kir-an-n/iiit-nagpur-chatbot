@@ -1,0 +1,158 @@
+internship_program = """
+IIIT NAGPUR - SUMMER AND WINTER INTERNSHIP PROGRAM
+
+OBJECTIVE
+
+This program is designed to provide educational and professional research experience to budding engineers.
+
+The program offers an opportunity for B.Tech, B.E., M.Sc. (Computer Science, Electronics & Communication, Information Technology, Mathematics, Statistics) and MCA students from institutions and universities across the nation to gain exposure to the research environment at IIIT Nagpur.
+
+---
+
+INTERNSHIP DETAILS
+
+Program Overview:
+- The internship program is intended to provide knowledge and deep learning in their area of interest under the supervision of expert faculty
+- Candidates need to decide the duration of the internship (2 months or 6 months)
+- Internship can be conducted in Online or Offline mode
+
+---
+
+ELIGIBILITY FOR INTERNSHIP
+
+Eligible Students:
+Any student who is pursuing B.Tech, B.E., M.Tech, or M.Sc. in the following fields:
+- Computer Science
+- Electronics & Communication Engineering
+- Information Technology
+- Mathematics and Statistics
+
+Eligibility Criteria:
+For Undergraduate students: Must have cleared the first 2 semesters of B.E. or B.Tech
+
+---
+
+DURATION OF INTERNSHIP
+
+Available Durations:
+- 2 Months Internship
+- 6 Months Internship
+
+Extension Policy:
+If required, the duration of the 2-month internship can be extended to 6 months with the recommendation of the supervisor and the approval of the competent authority. In that case, the student needs to pay the difference amount for further extension.
+
+---
+
+MODE OF INTERNSHIP
+
+IN-CAMPUS INTERNSHIP (OFFLINE):
+In this program, the students need to be physically present in the institute premises and have to undergo the given assignment and the project under the supervision of the expert.
+
+Facilities Provided:
+- Required Training and Guidance on the selected project
+- Access to needed computational resources
+- Access to Library resources
+- Hands-on laboratory facilities
+
+Accommodation:
+- Accommodation may be provided upon availability
+- Accommodation and Mess charges are applicable other than the registration fees
+- The charges for accommodation and mess will be as per Institute Policy and Norms
+
+ONLINE INTERNSHIP:
+In this program, the students need not be physically present in the institute premises and have to undergo the given assignment and the project under the supervision of the expert through online mode.
+
+Facilities Provided:
+- Required Training and Guidance on the selected project through online mode
+- Online access to resources
+- Virtual mentorship and supervision
+
+---
+
+REGISTRATION FEE STRUCTURE
+
+Mode          | Duration   | Registration Fees | GST (18%) | Total Payable
+--------------|------------|-------------------|-----------|---------------
+Online        | 2 Months   | Rs. 4,000         | Rs. 720   | Rs. 4,720
+Online        | 6 Months   | Rs. 10,000        | Rs. 1,800 | Rs. 11,800
+Offline       | 2 Months   | Rs. 5,000         | Rs. 900   | Rs. 5,900
+Offline       | 6 Months   | Rs. 12,000        | Rs. 2,160 | Rs. 14,160
+
+Note: No charges are applicable to the students of IIIT Nagpur.
+
+---
+
+HOW TO APPLY
+
+Application Process:
+
+Step 1: Contact Faculty
+Students should directly apply to the faculty member only on their email id by sending a latest Resume or CV (indicating the Grades and Technical skills) mentioning the subject in the mail "Request for Six Months internship at IIIT Nagpur" or "Request for Two Months internship at IIIT Nagpur"
+
+Step 2: After Faculty Consent
+After getting the consent from the faculty, students are required to forward the internship joining application form along with the registration form (in the prescribed format) and the details of the fee payment to:
+
+Internship Cell Email: internships@iiitn.ac.in
+Admin Office Email: oaaccounts@iiitn.ac.in
+
+Important Note:
+The registration fee should be deposited only after the selection confirmation from the supervisor.
+
+---
+
+SELECTION PROCESS
+
+Selection Criteria:
+- The respective faculty may take the telephonic or web-based interview for the selection of students
+- The selection of students is the sole responsibility of faculty members offering internships after testing and verifying the grades and technical skills
+- Applying to the internship does not guarantee the selection of students
+
+---
+
+REQUIREMENTS AFTER JOINING
+
+After joining, each candidate needs to submit the following:
+
+1. Original bonafide certificate from his/her currently affiliated organization duly authorized by HoD, Principal or Supervisor on the letterhead
+2. Resume
+3. Passport size photo
+4. Payment Receipt along with Registration Form
+
+---
+
+RULES AND REGULATIONS
+
+Conduct:
+- Candidates selected must abide by the rules and regulations of IIIT Nagpur
+- The candidate needs to demonstrate technical skills and professional ethics
+
+Project Requirements:
+- Project Report submission is mandatory for the award of the completion certificate
+- The candidate needs to produce substantial or measurable outcomes from the internship
+
+---
+
+INTERNSHIP OUTCOMES
+
+Expected Deliverables (One or More):
+1. Research publication in SCI or SCOPUS journal
+2. Software Product or Apps development
+3. Patents filing
+4. Technical documentation and reports
+
+Intellectual Property:
+All copyright will be associated or reserved with IIIT Nagpur.
+
+Certificate:
+Completion certificate will be awarded upon successful submission of project report and demonstration of outcomes.
+
+---
+
+CONTACT INFORMATION
+
+For Internship Queries:
+Email: internships@iiitn.ac.in
+Admin Office: oaaccounts@iiitn.ac.in
+Institute Phone: 9405215010
+Website: www.iiitn.ac.in
+"""
