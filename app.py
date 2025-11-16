@@ -1,3 +1,15 @@
+import os
+
+# Check if RAG exists, if not rebuild it
+if not os.path.exists("college_rag_complete.pkl"):
+    print("Building RAG system from data files...")
+    import glob
+    for txt_file in glob.glob("college_data/text/*.txt"):
+        with open(txt_file, 'r', encoding='utf-8') as f:
+            rag.add_text(f.read(), {"source": txt_file})
+    rag.save("college_rag_complete.pkl")
+
+
 from flask import Flask, request, jsonify
 from flask_cors import CORS
 from college_rag import CollegeRAGSystem
