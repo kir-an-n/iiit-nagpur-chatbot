@@ -7,6 +7,8 @@ gdown
 pillow
 numpy
 requests
-sentence-transformers==2.2.2
+sentence-transformers==2.7.0
 torch==2.9.1
 -f https://download.pytorch.org/whl/cpu
+
+
