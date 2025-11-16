@@ -1,13 +1,35 @@
 import os
+import requests
 
-# Check if RAG exists, if not rebuild it
+# Download RAG file from Google Drive if not exists
 if not os.path.exists("college_rag_complete.pkl"):
-    print("Building RAG system from data files...")
-    import glob
-    for txt_file in glob.glob("college_data/text/*.txt"):
-        with open(txt_file, 'r', encoding='utf-8') as f:
-            rag.add_text(f.read(), {"source": txt_file})
-    rag.save("college_rag_complete.pkl")
+    print("Downloading RAG system from Google Drive...")
+    file_id = "1DAMe7U6MXaxRpZtJRCDlIzmKfCTxK8zk"
+    url = f"https://drive.google.com/uc?export=download&id={file_id}"
+    
+    response = requests.get(url, stream=True)
+    with open("college_rag_complete.pkl", "wb") as f:
+        for chunk in response.iter_content(chunk_size=8192):
+            f.write(chunk)
+    print("✓ Downloaded!")
+
+
+import os
+import gdown
+
+# Local path to save the file
+file_path = "college_rag_complete.pkl"
+
+# Google Drive file ID
+file_id = "1DAMe7U6MXaxRpZtJRCDlIzmKfCTxK8zk"
+
+# Construct direct download URL
+url = f"https://drive.google.com/uc?id={file_id}"
+
+# Download if it doesn't exist locally
+if not os.path.exists(file_path):
+    print("Downloading college_rag_complete.pkl from Google Drive...")
+    gdown.download(url, file_path, quiet=False)
 
 
 from flask import Flask, request, jsonify
@@ -50,5 +72,5 @@ def ask_question():
     except Exception as e:
         return jsonify({"error": str(e)}), 500
 
-if __name__ == '__main__':
-    app.run(debug=True, host='0.0.0.0', port=5000)
+if __name__ == "__main__":
+    app.run(debug=False, host="0.0.0.0", port=5000, use_reloader=False)
